@@ -5,7 +5,7 @@ I evaluated the performance based on accuracy, precision and recall. My focus wa
 This project helped me to conclude that performance of VGG16 was the best among the 3 models I used.
 
 
-"Inspiration: Unveiling Optimal Drowsiness Detection in Vehicles Through Deep Learning"
+
 
 Abstract:
 In the realm of automotive safety, the imperative to ensure driver alertness and prevent accidents due to drowsiness has propelled the development of cutting-edge technologies. In this pursuit, my Deep Learning Mini Project 1 aimed to comprehensively evaluate and compare the performance of three transfer learning models—MobileNet, ResNet, and VGG16—on the crucial task of drowsiness detection. By employing the Multiview Car Driver Monitoring (MRL) dataset, a substantial benchmark for driver monitoring systems, I delved into a meticulous analysis of accuracy, precision, and recall to ascertain the most effective model for mitigating the risks associated with driver drowsiness.
